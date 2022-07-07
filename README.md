@@ -5,6 +5,7 @@
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Swift" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />
@@ -15,7 +16,9 @@
 <img align="left" alt="PhpStorm" width="30px" src="phpstorm.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />          
-
+<img align="left" alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" style="padding-right:10px;"/>
+                              
 <br />
 <br />   
 

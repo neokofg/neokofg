@@ -26,4 +26,7 @@
 <br>
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almasz243&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/almasz243">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=almasz243&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=almasz243&layout=compact&langs_count=8&theme=algolia"/>
+</a>

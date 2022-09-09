@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%008080&height=67&duration=3000&center=true&lines=Andrey+Arkhangelsky">
-</p>
 ### Hi there 👋, my name is Andrey, i'm 17 years old
 #### I am fullstack web-programmer(more back-end)
 ## Launguages and Tools:     

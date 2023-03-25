@@ -3,7 +3,7 @@
 # Hackathons:
 ### 🥇 Hackathon Winner & Best Developer Yakutsk MPIT AccelProIT 2022
 ### 🥈 2nd place Yakutsk CYBER-PARTY Spring-IT 2022
-### 🥈 3rd place & Best Developer Yakutsk MPIT 2023 (Category B)
+### 🥉 3rd place & Best Developer Yakutsk MPIT 2023 (Category B)
 # Main stack:
 ### 👨‍💻 Laravel with PostgreSQL
 # Launguages and Tools:     

@@ -19,6 +19,18 @@ YAGNI
 KISS
 <br>
 DRY
+### Laravel Packages:
+Laravel Sail
+<br>
+Laravel Octane (Roadrunner, Swoole)
+<br>
+Laravel Nova
+<br>
+Laravel Telescope
+<br>
+Laravel Scout (Livewire, Meilisearch)
+<br>
+Laravel Sanctum
 # Launguages and Tools:     
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="padding-right:10px;" />

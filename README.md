@@ -2,7 +2,7 @@
 #### I am fullstack web-programmer(more back-end)
 # Rankings:
 ### 🥈 Middle Back-end Developer
-### 🥉 Junior Front-End Developer
+### 🥉 Junior Web Front-End Developer
 # Hackathons:
 ### 🥇 Hackathon Winner & Best Developer Yakutsk MPIT AccelProIT 2022
 ### 🥈 2nd place Yakutsk CYBER-PARTY Spring-IT 2022

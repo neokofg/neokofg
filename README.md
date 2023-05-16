@@ -1,9 +1,13 @@
 ### Hi there 👋, my name is Andrey, i'm 17 years old
 #### I am fullstack web-programmer(more back-end)
+# Rankings:
+### 🥈 Middle Back-end Developer
+### 🥉 Junior Front-End Developer
 # Hackathons:
 ### 🥇 Hackathon Winner & Best Developer Yakutsk MPIT AccelProIT 2022
 ### 🥈 2nd place Yakutsk CYBER-PARTY Spring-IT 2022
-### 🥉 3rd place & Best Developer Yakutsk MPIT 2023 (Category B)
+### 🥉 3rd place & Best Developer Yakutsk MPIT 2023 (Category B, High league)
+### 🥇 1st place & Best Developer Yakutsk GIS-IT 2023 (Category B, High league)
 # Main stack:
 ### 👨‍💻 Laravel with PostgreSQL
 # Launguages and Tools:     

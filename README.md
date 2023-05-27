@@ -5,7 +5,7 @@
 ### 🥉 Junior Web Front-End Developer
 # Hackathons:
 ### 🥇 Hackathon Winner & Best Developer Yakutsk MPIT AccelProIT 2022
-### 🥈 2nd place Yakutsk CYBER-PARTY Spring-IT 2022
+### 🥈 2nd place Yakutsk & Best Developer CYBER-PARTY Spring-IT 2022
 ### 🥉 3rd place & Best Developer Yakutsk MPIT 2023 (Category B, High league)
 ### 🥇 1st place & Best Developer Yakutsk GIS-IT 2023 (Category B, High league)
 # Main stack:
@@ -42,7 +42,7 @@ Laravel Sanctum
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
 <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-          
+<img align="left" alt="RabbitMQ" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png" />
           
 
 <br>

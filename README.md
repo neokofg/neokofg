@@ -67,6 +67,7 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
 <br>
 <hr>
 

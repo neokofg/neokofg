@@ -14,13 +14,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)&nbsp;
 # Back-end:
-### Architectures:
+### Architectures & Principles:
 ![SOLID](https://img.shields.io/badge/SOLID-yellow?style=for-the-badge)&nbsp;
-### Principles:
 ![YAGNI](https://img.shields.io/badge/YAGNI-red?style=for-the-badge)&nbsp;
-<br>
 ![KISS](https://img.shields.io/badge/KISS-green?style=for-the-badge)&nbsp;
-<br>
 ![DRY](https://img.shields.io/badge/DRY-blue?style=for-the-badge)&nbsp;
 ### Laravel Packages:
 ![Laravel Sail](https://img.shields.io/badge/Laravel%20Sail-3ebff7?style=for-the-badge)&nbsp;

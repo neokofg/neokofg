@@ -13,29 +13,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)&nbsp;
-# Back-end:
-### Architectures & Principles:
-![SOLID](https://img.shields.io/badge/SOLID-yellow?style=for-the-badge)&nbsp;
-![YAGNI](https://img.shields.io/badge/YAGNI-red?style=for-the-badge)&nbsp;
-![KISS](https://img.shields.io/badge/KISS-green?style=for-the-badge)&nbsp;
-![DRY](https://img.shields.io/badge/DRY-blue?style=for-the-badge)&nbsp;
-### Laravel Packages:
-![Laravel Sail](https://img.shields.io/badge/Laravel%20Sail-3ebff7?style=for-the-badge)&nbsp;
-<br>
-![Laravel Octane](https://img.shields.io/badge/Laravel%20Octane-cc423a?style=for-the-badge)&nbsp;
-![OpenSwoole](https://img.shields.io/badge/OpenSwoole-cc422a?style=for-the-badge)&nbsp;
-![Swoole](https://img.shields.io/badge/Swoole-cc422a?style=for-the-badge)&nbsp;
-![Roadrunner](https://img.shields.io/badge/Roadrunner-cc421a?style=for-the-badge)&nbsp;
-<br>
-![Laravel Nova](https://img.shields.io/badge/Laravel%20Nova-252D37?style=for-the-badge)&nbsp;
-<br>
-![Laravel Telescope](https://img.shields.io/badge/Laravel%20Telescope-5353cd?style=for-the-badge)&nbsp;
-<br>
-![Laravel Scout](https://img.shields.io/badge/Laravel%20Scout-f66564?style=for-the-badge)&nbsp;
-![Livewire](https://img.shields.io/badge/Livewire-f66563?style=for-the-badge)&nbsp;
-![Meilisearch](https://img.shields.io/badge/Meilisearch-f66562?style=for-the-badge)&nbsp;
-<br>
-![Laravel Sanctum](https://img.shields.io/badge/Laravel%20Sanctum-255e78?style=for-the-badge)&nbsp;
 # Launguages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;

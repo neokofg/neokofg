@@ -4,7 +4,7 @@
 ### 🥈 Middle Back-end Developer
 ### 🥉 Junior Web Front-End Developer
 # Hackathons:
-### 🥇 Hackathon Winner & Best Developer Yakutsk MPIT AccelProIT 2022
+### 🥇 1st place & Best Developer Yakutsk MPIT AccelProIT 2022
 ### 🥈 2nd place Yakutsk & Best Developer CYBER-PARTY Spring-IT 2022
 ### 🥉 3rd place & Best Developer Yakutsk MPIT 2023 (Category B, High league)
 ### 🥇 1st place & Best Developer Yakutsk GIS-IT 2023 (Category B, High league)

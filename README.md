@@ -5,7 +5,7 @@
 ## Skills
 - **Languages:** PHP, TypeScript, Dart, Golang, Rust, Java.
 - **Frameworks:** Laravel, Flutter, Astro, Svelte, Tailwind, Quarkus, Gin, Rocket, Tauri, React Native.
-- **Technologies:** MySQL, PostgreSQL, GraphQL, RabbitMQ, Redis, Nginx, Apache, Docker, Kubernetes.
+- **Technologies:** MySQL, PostgreSQL, GraphQL, RabbitMQ, Kafka, Redis, Nginx, Apache, Docker, Kubernetes.
 - **Tools:** Github Actions, Postman, Cloudflare.
 
 ## Education and Experience

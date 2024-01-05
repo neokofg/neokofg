@@ -10,7 +10,7 @@
 
 ## Education and Experience
 - **Educational Institution:** International East European College.
-- **Work Experience:** [Qwantum](https://qwantum.agency), Middle Backend Developer.
+- **Work place:** [Qwantum](https://qwantum.agency), Middle Backend Developer.
 
 ## Statistics
 <a href="https://github.com/neokofg">

@@ -1,7 +1,7 @@
 # Hi, I'm Andrey!
 
-👨‍💻 Programmer with experience in various languages and frameworks.
-Middle+ PHP Developer
+👨‍💻 Programmer with experience in various languages and frameworks. <br>
+🥇 Middle+ PHP Developer
 
 ## Skills
 - **Languages:** PHP, TypeScript, Dart, Golang, Rust, Java.

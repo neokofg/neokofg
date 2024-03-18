@@ -4,5 +4,5 @@
 🥇 Senior PHP Developer
 
 ## Education and Experience
-- **Educational Institution:** International East European College.
+- **Educational Institution:** International East European College (Izhevsk).
 - **Work place:** [Qwantum](https://qwantum.agency), Middle Backend Developer.

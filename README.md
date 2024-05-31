@@ -5,7 +5,6 @@
 
 🌁 I live in Yakutsk (Republic of Sakha (Yakutia), Russia) <br>
 👦🏻 I'm 18 now <br>
-🦀 Currently working with Rust Lang
 
 ## Education and Experience
 - **Educational Institution:** International East European College (Izhevsk).

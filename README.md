@@ -3,7 +3,7 @@
 👨‍💻 Programmer with experience in various languages and frameworks. <br>
 🥇 Senior PHP Developer <br>
 
-🌁 I live in Yakutsk (Republic of Sakha (Yakutia), Russia) <br>
+🌁 I'm from Yakutsk (Republic of Sakha (Yakutia) <br>
 👦🏻 I'm 19 now <br>
 
 ## Education and Experience

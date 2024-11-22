@@ -1,7 +1,3 @@
-# 👋 Hi, I'm Andrew!
-
-> Developer with ~7 years of overall experience, passionate about building scalable solutions and continuous learning
-
 ## 👨‍💻 About Me
 
 - 🚀 Started my development journey in 2017 with pause between 2018-2021

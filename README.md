@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 
-- 🚀 Started my development journey in 2017 with pause between 2018-2021
-- 🌱 Currently focusing on architectural patterns and database optimization
+- 🚀 Started my development journey in 2017
+- 🌱 Currently focusing on low level coding and low level optimizations
 - 🎯 Looking for interesting opportunities to grow and contribute
 
 ## 💼 Open to interesting collaborations!

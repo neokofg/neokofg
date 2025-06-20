@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 
 - 🚀 Started my development journey in 2017
-- 🌱 Currently focusing on low level coding and low level optimizations
+- 🌱 Currently focusing on systems programming and performance optimization
 - 🎯 Looking for interesting opportunities to grow and contribute
 
 ## 💼 Open to interesting collaborations!

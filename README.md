@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-### IN ACTIVE JOB SEARCHING
+### Open to any work
 
 - 🚀 Started my development journey in 2017
 - 🌱 Currently focusing on systems programming and performance optimization

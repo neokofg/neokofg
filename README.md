@@ -4,7 +4,6 @@
 - 🚀 Started my development journey in 2017
 - 🌱 Currently focusing on systems programming and performance optimization
 - 🎯 Looking for interesting opportunities to grow and contribute
-- Have experienece in some big companies such like: MTS, Atlant-M
 
 ## 💼 Open to interesting collaborations!
 

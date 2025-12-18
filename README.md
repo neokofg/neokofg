@@ -1,5 +1,5 @@
     ╔═══════════════════════════════════════════════════════════╗
-    ║  > SYSTEM BOOT: NEOKO ONLINE                              ║
+    ║  > SYSTEM BOOT: NEOKO                                     ║
     ║  > LOCATION: DA NANG, VIETNAM  | UTC+7                    ║
     ║  > STATUS: FULLSTACK DEVELOPER | 9+ YEARS                 ║
     ╚═══════════════════════════════════════════════════════════╝

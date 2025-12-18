@@ -32,6 +32,3 @@
     };
   }
   ```
-     > KEEP SERVERS ALIVE                                  
-     > KEEP CODE CLEAN                                     
-     > KEEP FIGHTING ENTROPY                                   

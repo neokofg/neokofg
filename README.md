@@ -1,8 +1,6 @@
-    ╔═══════════════════════════════════════════════════════════╗
-    ║  > SYSTEM BOOT: NEOKO                                     ║
-    ║  > LOCATION: DA NANG, VIETNAM  | UTC+7                    ║
-    ║  > STATUS: FULLSTACK DEVELOPER | 9+ YEARS                 ║
-    ╚═══════════════════════════════════════════════════════════╝
+      > USERNAME: NEOKO                                     
+      > LOCATION: UTC+7                    
+      > EXPERIENCE: 9+ YEARS                 
 
        ___           ___           ___           ___     
       /\  \         /\__\         /\  \         /\__\    
@@ -19,8 +17,8 @@
   ```typescript
   const dev: Developer = {
     name: "Andrey Vasilev",
-    role: "Fullstack (Go . PHP . JS)",
-    focus: "High-load Backend | Microservices | Real-time",
+    role: "Software Engineer",
+    focus: "High-load Backend | Microservices | Real-time | Low-level",
     achievement: "Own social RTC app"
   };
   

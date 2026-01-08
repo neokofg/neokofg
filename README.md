@@ -1,5 +1,5 @@
       > USERNAME: NEOKO                                     
-      > LOCATION: UTC+7                    
+      > TIMEZONE: UTC+7                    
       > EXPERIENCE: 9+ YEARS                 
 
        ___           ___           ___           ___     

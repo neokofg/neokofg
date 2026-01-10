@@ -14,19 +14,19 @@
                   \::/  /       \::/  /        /:/  /   
                    \/__/         \/__/         \/__/    
 
-  ```typescript
-  const dev: Developer = {
+  ```rust
+const ME: Developer = Developer {
     name: "Andrey Vasilev",
     role: "Software Engineer",
     focus: "High-load Backend | Microservices | Real-time | Low-level",
-    achievement: "Own social RTC app"
-  };
-  
-  function getLinks(): Links {
-    return {
-      telegram: "t.me/neokofg",
-      github: "github.com/neokofg",
-      linkedin: "linkedin.com/in/andrei-vasilev-6a9195256"
-    };
-  }
+    achievement: "Own social RTC app",
+};
+
+const fn links() -> [(&'static str, &'static str); 3] {
+    [
+        ("Telegram", "t.me/neokofg"),
+        ("GitHub",   "github.com/neokofg"),
+        ("LinkedIn", "linkedin.com/in/andrei-vasilev-6a9195256"),
+    ]
+}
   ```

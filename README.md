@@ -1,3 +1,4 @@
+
       > USERNAME: NEOKO                                     
       > TIMEZONE: UTC+7                    
       > EXPERIENCE: 9+ YEARS                 
@@ -19,7 +20,6 @@ const ME: Developer = Developer {
     name: "Andrey Vasilev",
     role: "Software Engineer",
     focus: "High-load Backend | Microservices | Real-time | Low-level",
-    achievement: "Own social RTC app",
 };
 
 const fn links() -> [(&'static str, &'static str); 3] {

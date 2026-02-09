@@ -30,3 +30,4 @@ const fn links() -> [(&'static str, &'static str); 3] {
     ]
 }
   ```
+I use Arch btw

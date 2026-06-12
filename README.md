@@ -1,8 +1,4 @@
 
-      > USERNAME: NEOKO                                     
-      > TIMEZONE: UTC+7                    
-      > EXPERIENCE: 9+ YEARS                 
-
        ___           ___           ___           ___     
       /\  \         /\__\         /\  \         /\__\    
      /::\  \       /:/  /        /::\  \       /:/  /    
@@ -19,13 +15,12 @@
 const ME: Developer = Developer {
     name: "Andrey Vasilev",
     role: "Software Engineer",
-    focus: "High-load Backend | Microservices | Real-time | Low-level",
+    focus: "High-load | Dev/Ops | Transport | Unix | Low-level",
 };
 
 const fn links() -> [(&'static str, &'static str); 3] {
     [
         ("Telegram", "t.me/neokofg"),
-        ("GitHub",   "github.com/neokofg"),
         ("LinkedIn", "linkedin.com/in/andrei-vasilev-6a9195256"),
     ]
 }

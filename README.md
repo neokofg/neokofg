@@ -18,7 +18,7 @@ const ME: Developer = Developer {
     focus: "High-load | Dev/Ops | Transport | Unix | Low-level",
 };
 
-const fn links() -> [(&'static str, &'static str); 3] {
+const fn links() -> [(&'static str, &'static str); 2] {
     [
         ("Telegram", "t.me/neokofg"),
         ("LinkedIn", "linkedin.com/in/andrei-vasilev-6a9195256"),
